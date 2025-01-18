@@ -63,7 +63,7 @@
                                     <a href="#" class="dropdown-item">Menu Item 3</a>
                                 </div>
                             </div>  -->
-                            <a href="page-contacto.php" class="nav-item nav-link" style="color:black">CONTACTO</a>
+                            <a href="./page-contacto.php" class="nav-item nav-link" style="color:black">CONTACTO</a>
                         </div>
                     </div>
                 </div>
