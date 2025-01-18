@@ -6,7 +6,7 @@
         </div>
 
         <div class="col-4 d-flex justify-content-center align-items-center">
-            <img src="wp-content\themes\prueba\img/LOGO_AZUL.png" alt="Imagen 1" class="img-fluid rounded w-50">
+            <img src="http://localhost/prueba/wp-content\themes\prueba\img/LOGO_AZUL.png" alt="Imagen 1" class="img-fluid rounded w-50">
         </div>
 
         <div class="col-4 d-flex flex-column justify-content-center align-items-center">
@@ -23,7 +23,10 @@
     </div>
 </div>
 
-    
+    <?php
+
+    wp_footer();
+       ?>
     
    
 

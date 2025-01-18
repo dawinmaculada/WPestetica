@@ -23,7 +23,7 @@
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 
-	<?php prueba_post_thumbnail(); ?>
+	<?php qualyderm_post_thumbnail(); ?>
 
 	<div class="entry-summary">
 		<?php the_excerpt(); ?>

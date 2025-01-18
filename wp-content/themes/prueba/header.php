@@ -28,6 +28,11 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="wp-content/themes/prueba/css/style.css" rel="stylesheet">
+
+    <?php 
+    wp_head();
+
+    ?>
 	
 </head>
 
@@ -36,9 +41,9 @@
     <div class="row m-3">
         <!-- Logo Section -->
         <div class="col-lg-4 bg-secondary d-none d-lg-block d-flex align-items-center justify-content-center">
-            <a href="index.php" class="navbar-brand position-relative w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
+            <a href="<?php echo get_home_url()?>" class="navbar-brand position-relative w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
                 <!-- <h1 class="m-0 display-4 text-primary text-uppercase">Justice</h1> -->
-                <img class="position-absolute w-75 h-100" src="wp-content\themes\prueba\img\qualyderm.jpeg" style="object-fit: cover;">
+                <img class="position-absolute w-75 h-100" src="http://localhost/prueba/wp-content\themes\prueba\img\qualyderm.jpeg" style="object-fit: cover;">
             </a>
         </div>
     
@@ -54,7 +59,7 @@
                             <a href="page-laclinica.php" class="nav-item nav-link active"  style="color:black">LA CLINICA</a>
                             <a href="" class="nav-item nav-link" style="color:black">TRATAMIENTOS CORPORALES</a>
                             <a href="service.html" class="nav-item nav-link" style="color:black ">MEDICINA ESTETICA</a>
-                            <a href="http://localhost/prueba/sobre-nosotros/" class="nav-item nav-link" style="color:black">SOBRE NOSOTROS</a>
+                            <a href="/sobre-nosotros" class="nav-item nav-link" style="color:black">SOBRE NOSOTROS</a>
                             <!-- <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Dropdown</a>
                                 <div class="dropdown-menu rounded-0 m-0">
@@ -63,7 +68,7 @@
                                     <a href="#" class="dropdown-item">Menu Item 3</a>
                                 </div>
                             </div>  -->
-                            <a href="./page-contacto.php" class="nav-item nav-link" style="color:black">CONTACTO</a>
+                            <a href="contacto" class="nav-item nav-link" style="color:black">CONTACTO</a>
                         </div>
                     </div>
                 </div>
