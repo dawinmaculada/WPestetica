@@ -67,7 +67,7 @@ get_header();
     </div> -->
 
 
-    HOLA ESTOY EN PAGE?
+    HOLA ESTOY EN front-PAGE?
     
     <div class="container-fluid col-lg-9 pt-5">
     <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #87CEFA, transparent); margin: 20px 0;">

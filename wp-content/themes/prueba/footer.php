@@ -38,19 +38,19 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="wp-content\themes\prueba\lib/easing/easing.min.js"></script>
-    <script src="wp-content\themes\prueba\lib/waypoints/waypoints.min.js"></script>
-    <script src="wp-content\themes\prueba\lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="wp-content\themes\prueba\lib/tempusdominus/js/moment.min.js"></script>
-    <script src="wp-content\themes\prueba\lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="wp-content\themes\prueba\lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\lib/easing/easing.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\lib/waypoints/waypoints.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\lib/tempusdominus/js/moment.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
 
     <!-- Contact Javascript File -->
-    <script src="wp-content\themes\prueba\mail/jqBootstrapValidation.min.js"></script>
-    <script src="wp-content\themes\prueba\mail/contact.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\mail/jqBootstrapValidation.min.js"></script>
+    <script src="http://localhost/prueba/wp-content\themes\prueba\mail/contact.js"></script>
 
     <!-- Template Javascript -->
-    <script src="wp-content/themes/prueba/js/main.js"></script>
+    <script src="http://localhost/prueba/wp-content/themes/prueba/js/main.js"></script>
 </body>
 
 </html>

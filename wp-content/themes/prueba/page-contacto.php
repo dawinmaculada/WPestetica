@@ -33,14 +33,14 @@
 
 
     <!-- Contact Start -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-2">
+        <div class="container py-2">
             <div class="text-center pb-2">
                 <h6 class="text-uppercase"></h6>
-                <h1 class="mb-4">Contacto</h1>
+                <h1 class="mb-5">Contacto</h1>
             </div>
             <div class="row">
-                <div class="col-lg-6 mb-5 mb-lg-0 ">
+                <div class="col-lg-6 mb-2 mb-lg-0 ">
                     <div class="contact-form ">
                         <div id="success"></div>
                         <form name="sentMessage" id="contactForm" novalidate="novalidate">

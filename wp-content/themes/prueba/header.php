@@ -19,15 +19,16 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="http://localhost/prueba/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <!-- <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" /> -->
-	<link href="wp-content\themes\prueba\lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
-	<link href="wp-content\themes\prueba\css/style.css"/>
+	<link href="http://localhost/prueba/wp-content\themes\prueba\lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+	
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="wp-content/themes/prueba/css/style.css" rel="stylesheet">
+    <link href="http://localhost/prueba/wp-content\themes\prueba\css\style.css" rel="stylesheet">
+    <link href="wp-content\themes\prueba\css\style.css" rel="stylesheet">
 
     <?php 
     wp_head();
@@ -59,7 +60,7 @@
                             <a href="page-laclinica.php" class="nav-item nav-link active"  style="color:black">LA CLINICA</a>
                             <a href="" class="nav-item nav-link" style="color:black">TRATAMIENTOS CORPORALES</a>
                             <a href="service.html" class="nav-item nav-link" style="color:black ">MEDICINA ESTETICA</a>
-                            <a href="/sobre-nosotros" class="nav-item nav-link" style="color:black">SOBRE NOSOTROS</a>
+                            <a href="sobre-nosotros" class="nav-item nav-link" style="color:black">SOBRE NOSOTROS</a>
                             <!-- <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Dropdown</a>
                                 <div class="dropdown-menu rounded-0 m-0">
@@ -75,6 +76,7 @@
             </nav>
         </div>
     </div>
+    <div style="width: 100%; height: 1px; background: linear-gradient(to right, transparent, blue, transparent); margin-top: 10px auto;"></div>
     
     <!-- Header End -->
 

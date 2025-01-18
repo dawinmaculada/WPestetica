@@ -9805,25 +9805,26 @@ h4, h5, h6 {
 }
 
 .bg-page-header {
-  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(../img/estetica.jpg), no-repeat center center;
+  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(wp-content\themes\prueba\/img/estetica.jpg), no-repeat center center;
   background-size: cover;
   width: 1700px;
   height: 500px;
 }
 
 .bg-appointment {
-  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(../img/carousel-1.jpg), no-repeat center center;
+  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(wp-content\themes\prueba\img/carousel-1.jpg), no-repeat center center;
   background-size: cover;
 }
 
 .bg-action {
-  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(../img/accion.jpeg), no-repeat center center;
+  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(wp-content\themes\prueba\img\accion.jpeg), no-repeat center center;
   background-size: cover;
 }
 
 .bg-action1{
-  background:  url(../img/LOGO_AZUL.png), no-repeat center center;
-  background-size: cover;
+  background:  linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)),  url(wp-content\themes\prueba\img/LOGO_AZUL.png), no-repeat center center;
+  
+  
 
 }
 
@@ -9951,6 +9952,7 @@ h4, h5, h6 {
   max-width: 100%;
   height: auto;
 }
+
 
 
 
