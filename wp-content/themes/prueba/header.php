@@ -57,8 +57,8 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-center" style="font-family: 'Roboto', sans-serif; font-size: 17px; color:black" id="navbarCollapse">
                         <div class="row py-4">
-                            <a href="page-laclinica.php" class="nav-item nav-link active"  style="color:black">LA CLINICA</a>
-                            <a href="" class="nav-item nav-link" style="color:black">TRATAMIENTOS CORPORALES</a>
+                            <a href="" class="nav-item nav-link active"  style="color:black">LA CLINICA</a>
+                            <a href="tratamientos" class="nav-item nav-link" style="color:black">TRATAMIENTOS CORPORALES</a>
                             <a href="service.html" class="nav-item nav-link" style="color:black ">MEDICINA ESTETICA</a>
                             <a href="sobre-nosotros" class="nav-item nav-link" style="color:black">SOBRE NOSOTROS</a>
                             <!-- <div class="nav-item dropdown">
